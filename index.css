@@ -1735,7 +1735,7 @@ a {
     /* Hero */
     .hero-diagonal {
         min-height: auto;
-        padding-top: 100px;
+        padding-top: 130px;
         /* Account for fixed header */
     }
 
@@ -2007,7 +2007,7 @@ a {
 
     /* Hero */
     .hero-diagonal {
-        padding-top: 90px;
+        padding-top: 120px;
         /* More padding for smaller screens */
     }
 
